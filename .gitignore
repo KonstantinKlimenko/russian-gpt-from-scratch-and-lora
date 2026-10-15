@@ -1,0 +1,16 @@
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.venv/
+runs/
+models/
+archive/
+
+*.pt
+*.safetensors
+*.parquet
+*.jsonl
+*.ftz
+
+data/*
+!data/proza_bpe_16k.json

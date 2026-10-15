@@ -1,0 +1,6 @@
+torch==2.6.0
+tokenizers==0.22.2
+transformers==4.57.3
+peft==0.21.2
+accelerate==1.14.0
+pyarrow==24.0.0
